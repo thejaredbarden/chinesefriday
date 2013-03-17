@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseFriday", "ChineseFriday\ChineseFriday.csproj", "{68F9EB25-5B99-45B5-9976-A903CAE274C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseFriday.Tests", "ChineseFriday.Tests\ChineseFriday.Tests.csproj", "{C971EA03-6C0B-40B4-8A56-8AEC3647D016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F9EB25-5B99-45B5-9976-A903CAE274C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F9EB25-5B99-45B5-9976-A903CAE274C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F9EB25-5B99-45B5-9976-A903CAE274C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F9EB25-5B99-45B5-9976-A903CAE274C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C971EA03-6C0B-40B4-8A56-8AEC3647D016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C971EA03-6C0B-40B4-8A56-8AEC3647D016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C971EA03-6C0B-40B4-8A56-8AEC3647D016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C971EA03-6C0B-40B4-8A56-8AEC3647D016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
